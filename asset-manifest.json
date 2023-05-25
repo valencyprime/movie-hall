@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/movie-hall/static/css/main.cae2639d.css",
+    "main.js": "/movie-hall/static/js/main.f32c80e1.js",
+    "index.html": "/movie-hall/index.html",
+    "main.cae2639d.css.map": "/movie-hall/static/css/main.cae2639d.css.map",
+    "main.f32c80e1.js.map": "/movie-hall/static/js/main.f32c80e1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cae2639d.css",
+    "static/js/main.f32c80e1.js"
+  ]
+}
